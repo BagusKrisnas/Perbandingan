@@ -126,4 +126,4 @@ with col2:
                 st.metric(label="Nilai Matching (SSIM)", value=f"{ssim_val:.4f}")
 
             else:
-                st.warning("Harap upload Citra 1 terlebih dahulu untuk melakukan perbandingan.")
+                st.warning("Harap upload Citra 1 terlebih dahulu untuk melakukan perbandingan.") 
